@@ -1,0 +1,6 @@
+json_minify
+flask
+pytz
+requests[socks]
+yarl
+pymongo
